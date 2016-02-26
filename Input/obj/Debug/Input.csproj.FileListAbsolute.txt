@@ -1,0 +1,6 @@
+c:\users\oscar\documents\visual studio 2013\Projects\Input\Input\bin\Debug\Input.exe.config
+c:\users\oscar\documents\visual studio 2013\Projects\Input\Input\bin\Debug\Input.exe
+c:\users\oscar\documents\visual studio 2013\Projects\Input\Input\bin\Debug\Input.pdb
+c:\users\oscar\documents\visual studio 2013\Projects\Input\Input\obj\Debug\Input.csprojResolveAssemblyReference.cache
+c:\users\oscar\documents\visual studio 2013\Projects\Input\Input\obj\Debug\Input.exe
+c:\users\oscar\documents\visual studio 2013\Projects\Input\Input\obj\Debug\Input.pdb
