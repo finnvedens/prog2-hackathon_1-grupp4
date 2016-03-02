@@ -18,22 +18,14 @@ namespace Input
 
         public int getKeyword(string input)
         {
-            List<string> Words = new List<string>();
-
-            string a = "";
-            for (int i = 0; i < input.Length; i++)
-            {
-                if (input[i] == ' ')
-                {
-                    Words.Add(a);
-                    a = "";
-                }
-                else
-                {
-                    a += input[i];
-                }
-            }
-            Words.Add(a);
+			string word = "";
+            for(int i = 0; i < input.Length; i++) 
+			{
+				if(input[i] == ' ') {
+					a = input.Substring(i - 1);
+					break;
+				}
+			}
 
             for (int i = 0; i < Keywords.Count; i++)
             {
