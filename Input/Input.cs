@@ -29,7 +29,7 @@ namespace Input
 
             for (int i = 0; i < Keywords.Count; i++)
             {
-                if (Words[0] == Keywords[i])
+                if (word == Keywords[i])
                 {
                     return i;
                 }
