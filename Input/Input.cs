@@ -21,7 +21,7 @@ namespace Input
 			string word = "";
             for(int i = 0; i < input.Length; i++) 
 			{
-				if(input[i] == ' ') {
+				if(input[i] == ' ' || i == input.Length) {
 					a = input.Substring(i - 1);
 					break;
 				}
