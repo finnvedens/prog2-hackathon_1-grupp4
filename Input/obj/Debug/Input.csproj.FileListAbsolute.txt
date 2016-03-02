@@ -4,3 +4,6 @@ c:\users\oscar\documents\visual studio 2013\Projects\Input\Input\bin\Debug\Input
 c:\users\oscar\documents\visual studio 2013\Projects\Input\Input\obj\Debug\Input.csprojResolveAssemblyReference.cache
 c:\users\oscar\documents\visual studio 2013\Projects\Input\Input\obj\Debug\Input.exe
 c:\users\oscar\documents\visual studio 2013\Projects\Input\Input\obj\Debug\Input.pdb
+C:\Users\Andrew\Desktop\prog2-hackathon_1-grupp4\Input\bin\Debug\Input.exe.config
+C:\Users\Andrew\Desktop\prog2-hackathon_1-grupp4\Input\obj\Debug\Input.exe
+C:\Users\Andrew\Desktop\prog2-hackathon_1-grupp4\Input\obj\Debug\Input.pdb
