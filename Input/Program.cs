@@ -11,6 +11,8 @@ namespace Input
             Input i = new Input();
 
             Console.WriteLine(i.getKeyword("attack"));
+
+           
         }
     }
 }

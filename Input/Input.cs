@@ -15,7 +15,11 @@ namespace Input
             Keywords.Add("right");
             Keywords.Add("forward");
         }
-
+        /// <summary>
+        /// Takes the first word in input and checks if its a keyword.
+        /// </summary>
+        /// <param name="input">input string returns the first word</param>
+        /// <returns></returns>
         public int getKeyword(string input)
         {
 			string word = "";
